@@ -1,5 +1,5 @@
 import React from "react";
-import { DiFirebase, DiReact, DiZend } from "react-icons/di";
+import { DiHtml5, DiReact, DiGithubBadge } from "react-icons/di";
 import { Section, SectionDivider, SectionText, SectionTitle } from "../../styles/GlobalComponents";
 import { List, ListContainer, ListItem, ListParagraph, ListTitle } from "./TechnologiesStyles";
 
@@ -11,32 +11,32 @@ const Technologies = () => (
     <SectionText>I've worked with a range a technologies in the web development world.</SectionText>
     <List>
       <ListItem>
-        <DiReact size="3rem" />
+        <DiHtml5 size="8rem" />
         <ListContainer>
-          <ListTitle>Front-end</ListTitle>
+          <ListTitle>HTML / CSS</ListTitle>
           <ListParagraph>
             Experience with <br />
-            React.js
+            BOOTSTRAP / Materializecss / Tailwind / Responsive Design
           </ListParagraph>
         </ListContainer>
       </ListItem>
       <ListItem>
-        <DiFirebase size="3rem" />
+        <DiReact size="8rem" />
         <ListContainer>
-          <ListTitle>Back-end</ListTitle>
+          <ListTitle>JavaScript / TypeScript</ListTitle>
           <ListParagraph>
             Experience with <br />
-            Node and Databases
+            React.js / Redux / React router / Material UI / Ant Design / Axios
           </ListParagraph>
         </ListContainer>
       </ListItem>
       <ListItem>
-        <DiZend size="3rem" />
+        <DiGithubBadge size="8rem" />
         <ListContainer>
-          <ListTitle>UI/UX</ListTitle>
+          <ListTitle>GIT / GITHUB</ListTitle>
           <ListParagraph>
             Experience with <br />
-            tools like Figma
+            tools like Git / Github / Comment Line / Google Apps Script
           </ListParagraph>
         </ListContainer>
       </ListItem>
