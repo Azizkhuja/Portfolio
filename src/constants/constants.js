@@ -27,7 +27,7 @@ export const projects = [
     id: 2
   },
   {
-    title: "Unichat",
+    title: "Secret App",
     description: "This is simple app, you can write any text then click the 'Create' button it will translate to hash code then you will get link after that you can send to your friend or girlfriend. Psst don't tell anyone",
     image: "/images/4.jpg",
     tags: ["HTML", "JavsScript", "CSS"],

@@ -23,7 +23,7 @@ const Technologies = () => (
       <ListItem>
         <DiReact size="8rem" />
         <ListContainer>
-          <ListTitle>JavaScript / TypeScript</ListTitle>
+          <ListTitle>JS / TypeScript</ListTitle>
           <ListParagraph>
             Experience with <br />
             React.js / Redux / React router / Material UI / Ant Design / Axios
