@@ -26,7 +26,7 @@ const Technologies = () => (
           <ListTitle>JS / TypeScript</ListTitle>
           <ListParagraph>
             Experience with <br />
-            React.js / Redux / React router / Material UI / Ant Design / Axios
+            React / Redux / React Storybook / Material UI / Ant Design / Axios
           </ListParagraph>
         </ListContainer>
       </ListItem>
