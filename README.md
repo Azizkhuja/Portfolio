@@ -1,5 +1,5 @@
 ## Personal Portfolio
-[Link to DEMO!](https://clonecryptoverse.netlify.app/)
+[Link to DEMO!](https://azeezkhujaev.netlify.app/)
 
 ![Screenshot](Portfolio.png)
 
