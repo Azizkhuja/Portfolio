@@ -1,5 +1,15 @@
 export const projects = [
   {
+    title: "App Store",
+    description:
+      "In this website you can securly login with Google and translate entire page to Spanish language.  Near feature I am planing to add new functinality such as get individual application details and routing to dedicated page. So you will like it!",
+    image: "/images/3.jpg",
+    tags: ["React", "Google Auth", "i18n", "jwt-decode", "Material UI"],
+    source: "https://github.com/Azizkhuja/Meme-app",
+    visit: "https://memeapp.surge.sh/",
+    id: 5,
+  },
+  {
     title: "Gamefy",
     description:
       "In this application you can get information about last game and Minimum System Requirements information. Find & track the best free-to-play games! Track what you've played and search for what to play next!",
@@ -28,16 +38,6 @@ export const projects = [
     source: "https://github.com/Azizkhuja/GadgetNews",
     visit: "https://gadget-news.netlify.app/",
     id: 0,
-  },
-  {
-    title: "MEME Creator App",
-    description:
-      "It's online image maker that lets you add custom resizable text and people often use the generator to customize established memes, such as those found in Imgflip's collection of Meme Templates it is fun!",
-    image: "/images/3.jpg",
-    tags: ["React", "React-Router", "JavaScript"],
-    source: "https://github.com/Azizkhuja/Meme-app",
-    visit: "https://memeapp.surge.sh/",
-    id: 5,
   },
 ];
 
