@@ -44,7 +44,7 @@ export const projects = [
 export const TimeLineData = [
   {
     year: 2019,
-    text: "March 2019 - 2022 April Senior Process Executive at COGNIZANT",
+    text: "March 2019 - 2022 April Senior Process Executive at Cognizant",
   },
   {
     year: 2021,
