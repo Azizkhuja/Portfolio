@@ -26,20 +26,22 @@ const Technologies = () => (
       <ListItem>
         <DiHtml5 size="8rem" />
         <ListContainer>
-          <ListTitle>HTML / CSS</ListTitle>
+          <ListTitle>HTML / CSS / SCSS</ListTitle>
           <ListParagraph>
             Experience with <br />
-            BOOTSTRAP / Materializecss / Tailwind / Responsive Design
+            Material UI / Styled Components / Ant Design / Responsive Design
+            etc.,
           </ListParagraph>
         </ListContainer>
       </ListItem>
       <ListItem>
         <DiReact size="8rem" />
         <ListContainer>
-          <ListTitle>JavaScript</ListTitle>
+          <ListTitle>JavaScript/TypeScript</ListTitle>
           <ListParagraph>
             Experience with <br />
-            React / Redux / React Storybook / Material UI / Ant Design / Axios
+            React / React Native / Redux / React Query / Familiar Vue and
+            ecosystem
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -49,7 +51,7 @@ const Technologies = () => (
           <ListTitle>GIT / GITHUB</ListTitle>
           <ListParagraph>
             Experience with <br />
-            tools like Git / Github / Comment Line / Google Apps Script
+            tools like Git / Github / Comment Line / Google Apps Script etc.,
           </ListParagraph>
         </ListContainer>
       </ListItem>

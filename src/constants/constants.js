@@ -5,8 +5,8 @@ export const projects = [
       "In this website you can securly login with Google and translate entire page to Spanish language.  Near feature I am planing to add new functinality such as get individual application details and routing to dedicated page. So you will like it!",
     image: "/images/3.jpg",
     tags: ["React", "Google Auth", "i18n", "jwt-decode", "Material UI"],
-    source: "https://github.com/Azizkhuja/Meme-app",
-    visit: "https://memeapp.surge.sh/",
+    source: "https://github.com/Azizkhuja/AppStore",
+    visit: "https://app-store-info.netlify.app/",
     id: 5,
   },
   {
