@@ -42,11 +42,20 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2018, text: "Started my journey" },
   {
     year: 2019,
-    text: "Started job at Cognizant as a Senior Process Executive",
+    text: "March 2019 - 2022 April Senior Process Executive at COGNIZANT",
   },
-  { year: 2020, text: "Completed University WSEIZ Engineering and Management" },
-  { year: 2022, text: "Next I will work with you!" },
+  {
+    year: 2021,
+    text: "Oct 2021 - Dec 2021 Web Developer internship at UPG LLC",
+  },
+  {
+    year: 2022,
+    text: "Jan 2022 - 2022 July Junior Software Engineer at NeuroLeap Corp",
+  },
+  {
+    year: 2022,
+    text: "May 2022 - present - Junior Software Engineer at Bidroom",
+  },
 ];
